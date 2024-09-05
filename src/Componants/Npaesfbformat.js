@@ -1,7 +1,10 @@
+import React from 'react';
+         
+
 const Npaesfbformat = ()=>{
     return(
-        <>
-             <div className="container">
+        <>      
+             <div className="container"  >
                   <div className="row">
                         <div className="col-md-12" style={{border:'1px solid black'}}>
                               <b>NPA TECHNICAL REPORT FORMAT - ESFB</b>
@@ -187,7 +190,7 @@ const Npaesfbformat = ()=>{
                   </div>
 
              </div>
-             
+            
         
         </>
     );
